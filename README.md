@@ -1,2 +1,2 @@
-# JIITSynopsisTemplate
-Template for JIIT Synopsis Report
+# Thesis and Synopsis Report
+Latex files for writing Thesis or Synopsis as per JIIT Template 
